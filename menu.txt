@@ -6,3 +6,12 @@ pasteries
 
 fruits
 vegetables
+
+new menus for next year.this will go in major versions:
+
+paneer
+mangoes
+keema
+
+
+thanks very much !!
