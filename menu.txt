@@ -3,3 +3,6 @@ Welcome to my Menu:
 samosa
 cakes
 pasteries
+
+fruits
+vegetables
